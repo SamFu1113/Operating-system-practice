@@ -1,4 +1,4 @@
-# Operaing system practice
+# Operating system practice
 
 ## What is the project mainly about?
 
