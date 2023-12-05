@@ -8,3 +8,4 @@
 
 ## What are we going to do?
 > Build cross development toolchain
+> Build Linux Kernel
