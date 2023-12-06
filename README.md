@@ -7,6 +7,6 @@
 
 
 ## What are we going to do?
-> Build cross development toolchain\
-> Build Linux Kernel\
+- Build cross development toolchain\
+- Build Linux Kernel\
 &rarr; Check Point 1: uImage
