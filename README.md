@@ -11,3 +11,4 @@
 - Build linux kernel\
 &rarr; Check Point 1: uImage
 - Setup tftp server
+- Setup NFS server
