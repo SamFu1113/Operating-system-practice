@@ -8,5 +8,6 @@
 
 ## What are we going to do?
 - Build cross development toolchain
-- Build Linux Kernel\
+- Build linux kernel\
 &rarr; Check Point 1: uImage
+- Setup tftp server
