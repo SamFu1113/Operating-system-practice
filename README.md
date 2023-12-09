@@ -14,3 +14,4 @@
 - Setup NFS server
 &rarr; Check Point 2: test the services
 - Setup target board
+- Download linux kernel
