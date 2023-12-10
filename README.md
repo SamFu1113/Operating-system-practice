@@ -15,3 +15,4 @@
 &rarr; Check Point 2: test the services
 - Setup target board
 - Download linux kernel
+&rarr; Check Point 3: test the linux kernel
