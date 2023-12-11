@@ -16,3 +16,6 @@
 - Setup target board
 - Download linux kernel
 &rarr; Check Point 3: test the linux kernel
+
+## Fedora Linux
+- The Fedora Project was created in late 2003.
