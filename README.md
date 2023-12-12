@@ -19,3 +19,4 @@
 
 ## Fedora Linux
 - The Fedora Project was created in late 2003.
+- I'm using the version 38.
