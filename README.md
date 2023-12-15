@@ -22,3 +22,4 @@
 - I'm using the version 38.
 - Package manager: RPM
 - Update method: yum
+  - Password: csie123456
