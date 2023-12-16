@@ -23,3 +23,4 @@
 - Package manager: RPM
 - Update method: yum
   - Password: csie123456
+  - Select the language: Taiwan
