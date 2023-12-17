@@ -25,3 +25,4 @@
   - Password: csie123456
   - Select the language: Taiwan
   - WindowsKey + space to change the input language
+  - Activities&rarr;
