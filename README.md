@@ -25,4 +25,4 @@
   - Password: csie123456
   - Select the language: Taiwan
   - WindowsKey + space to change the input language
-  - Activities&rarr;Search: terminal
+  - Activities&rarr;Search: terminal&rarr;to get the terminal
