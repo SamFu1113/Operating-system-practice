@@ -26,4 +26,4 @@
   - Select the language: Taiwan
   - WindowsKey + space to change the input language
   - Activities&rarr; Search: terminal&rarr; to get the terminal
-    - Edit&rarr; Profile Preferences&rarr;
+    - Edit&rarr; Profile Preferences&rarr; Colors&rarr;
