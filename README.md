@@ -29,4 +29,6 @@
     - Edit&rarr; Profile Preferences&rarr; Colors&rarr; Uncheck "use colors from system theme"
   - Click the icon at the right-top corner for network setting
 
+## Setting Network
+
 ## vi--A Screen-Oriented Text Editor
