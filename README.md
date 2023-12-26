@@ -32,3 +32,4 @@
 ## Setting Network
 
 ## vi--A Screen-Oriented Text Editor
+- vi is widely supported by Unix-like operating system.
