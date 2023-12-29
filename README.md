@@ -35,3 +35,4 @@
 - vi is widely supported by Unix-like operating system.
 - Normal mode:
   - Move, search, copy, paste, delete,...
+  - Press i, I, a, A, o, O,... to change to the insert mode
