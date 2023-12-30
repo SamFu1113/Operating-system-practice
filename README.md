@@ -36,3 +36,4 @@
 - Normal mode:
   - Move, search, copy, paste, delete,...
   - Press i, I, a, A, o, O,... to change to the insert mode
+  - Press : for the command mode
