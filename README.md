@@ -41,3 +41,4 @@
   - Save, quit, load, split, ...
   - After enter the command, it will back to the normal mode.
 - Insert mode:
+  - Move & input anything
