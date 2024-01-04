@@ -39,6 +39,7 @@
   - Press : for the command mode
 - Command mode:
   - Save, quit, load, split, ...
-  - After enter the command, it will back to the normal mode.
+  - After enter the command, it will back to the normal mode
 - Insert mode:
   - Move & input anything
+  - Press ESC to go back to the normal mode
