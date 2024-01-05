@@ -43,3 +43,5 @@
 - Insert mode:
   - Move & input anything
   - Press ESC to go back to the normal mode
+
+## vi Commands
