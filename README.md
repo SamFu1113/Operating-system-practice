@@ -45,3 +45,4 @@
   - Press ESC to go back to the normal mode
 
 ## vi Commands
+  - Press ‘i’ to get the insert mode
