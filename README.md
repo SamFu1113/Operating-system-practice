@@ -46,3 +46,4 @@
 
 ## vi Commands
   - Press ‘i’ to get the insert mode
+  - Key-in anything
