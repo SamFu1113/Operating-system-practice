@@ -47,3 +47,4 @@
 ## vi Commands
   - Press ‘i’ to get the insert mode
   - Key-in anything
+  - Press ‘ESC’ to go back to the normal mode
