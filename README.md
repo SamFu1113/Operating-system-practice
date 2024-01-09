@@ -48,3 +48,4 @@
   - Press ‘i’ to get the insert mode
   - Key-in anything
   - Press ‘ESC’ to go back to the normal mode
+  - Press ‘:->w->q->ENTER’ to save & quit
