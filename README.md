@@ -50,3 +50,5 @@
   - Press ‘ESC’ to go back to the normal mode
   - Press ‘:->w->q->ENTER’ to save & quit
   - Please search for some trivial of vi & study by yourself
+
+## Part I: Build the Linux Kernel for TI OMAP 5912.
