@@ -52,3 +52,6 @@
   - Please search for some trivial of vi & study by yourself
 
 ## Part I: Build the Linux Kernel for TI OMAP 5912.
+
+### Download files
+
