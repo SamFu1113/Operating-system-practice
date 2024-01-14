@@ -54,4 +54,5 @@
 ## Part I: Build the Linux Kernel for TI OMAP 5912.
 
 ### Download files
+  - Download the tools from the course website and extract the files
 
