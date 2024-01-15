@@ -55,4 +55,5 @@
 
 ### Download files
   - Download the tools from the course website and extract the files
+  - I will need the following files
 
