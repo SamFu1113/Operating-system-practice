@@ -56,4 +56,5 @@
 ### Download files
   - Download the tools from the course website and extract the files
   - I will need the following files
+    - linux-2.6.12-omap.tgz-> the kernel source code  
 
