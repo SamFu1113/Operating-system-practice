@@ -57,5 +57,6 @@
   - Download the tools from the course website and extract the files
   - I will need the following files
     - linux-2.6.12-omap.tgz-> the kernel source code
-    - gcc-3.3.2.tar-> some gcc extension for this project  
+    - gcc-3.3.2.tar-> some gcc extension for this project
+    - mkimage-> some script which is used when compiling kernel  
 
