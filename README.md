@@ -60,4 +60,5 @@
     - gcc-3.3.2.tar-> some gcc extension for this project
     - mkimage-> some script which is used when compiling kernel
     - rootfsosk.tar.bz2-> the content of the root filesystem
+  - I will need root privilege for the following actions.
 
