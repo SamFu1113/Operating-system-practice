@@ -61,4 +61,5 @@
     - mkimage-> some script which is used when compiling kernel
     - rootfsosk.tar.bz2-> the content of the root filesystem
   - I will need root privilege for the following actions.
+    - *sudo passwd root*
 
