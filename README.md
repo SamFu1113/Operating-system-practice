@@ -62,4 +62,5 @@
     - rootfsosk.tar.bz2-> the content of the root filesystem
   - I will need root privilege for the following actions.
     - *sudo passwd root*
+    - *su* (the password is root123456)-> change to root
 
