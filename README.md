@@ -63,4 +63,5 @@
   - I will need root privilege for the following actions.
     - *sudo passwd root*
     - *su* (the password is root123456)-> change to root
+    - *cd /home/csie/LAB1*
 
