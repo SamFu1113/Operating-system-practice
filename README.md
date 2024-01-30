@@ -64,4 +64,5 @@
     - *sudo passwd root*
     - *su* (the password is root123456)-> change to root
     - *cd /home/csie/LAB1*
+    - *cp linux-2.6.12-omap.tgz /opt/linux-2.6.12-omap.tgz*
 
