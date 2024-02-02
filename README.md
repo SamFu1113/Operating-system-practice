@@ -66,5 +66,6 @@
     - *cd /home/csie/LAB1*
     - *cp linux-2.6.12-omap.tgz /opt/linux-2.6.12-omap.tgz*
     - *cp gcc-3.3.2.tar /opt/gcc-3.3.2.tar*
-    - *chmod +x mkimage* 
+    - *chmod +x mkimage*
+    - *cd /opt*
 
