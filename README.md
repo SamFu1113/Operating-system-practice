@@ -68,4 +68,5 @@
     - *cp gcc-3.3.2.tar /opt/gcc-3.3.2.tar*
     - *chmod +x mkimage*
     - *cd /opt*
+    - tar *xvf gcc-3.3.2.tar*
 
