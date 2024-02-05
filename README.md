@@ -69,4 +69,5 @@
     - *chmod +x mkimage*
     - *cd /opt*
     - *tar xvf gcc-3.3.2.tar*
+    - *tar zxvf linux-2.6.12-omap.tgz*
 
