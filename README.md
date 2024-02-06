@@ -70,4 +70,5 @@
     - *cd /opt*
     - *tar xvf gcc-3.3.2.tar*
     - *tar zxvf linux-2.6.12-omap.tgz*
+    - *cp home/csie/LAB1/mkimage /opt/usr/local/arm/3.3.2/bin/mkimage*
 
