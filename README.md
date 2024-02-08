@@ -73,4 +73,5 @@
     - *cp home/csie/LAB1/mkimage /opt/usr/local/arm/3.3.2/bin/mkimage*
 
 ### Prepare the Compiling Environment
+  - Set Path
 
