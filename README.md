@@ -76,4 +76,5 @@
   - Set Path
     - *export PATH=$PATH:/opt/usr/local/arm/3.3.2/bin*-> for every terminal session, before I compile the kernel
     - *export LANG=en*
+  - Install Tools
 
