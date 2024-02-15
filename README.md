@@ -78,4 +78,5 @@
     - *export LANG=en*
   - Install Tools
     - *yum -y install gcc*-> compiler tools
+    - *yum -y install glibc.i686*-> library for 32-bit Linux Kernel
 
