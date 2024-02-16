@@ -79,4 +79,5 @@
   - Install Tools
     - *yum -y install gcc*-> compiler tools
     - *yum -y install glibc.i686*-> library for 32-bit Linux Kernel
+    - *yum -y install minicom*-> minicom is the utility for the serial port connection
 
