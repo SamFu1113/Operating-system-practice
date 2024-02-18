@@ -82,4 +82,4 @@
     - *yum -y install minicom*-> minicom is the utility for the serial port connection
 
 ### Build the Linux Kernel
-
+  - Go to the kernel source directory (be the root)
