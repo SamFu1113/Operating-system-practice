@@ -84,3 +84,4 @@
 ### Build the Linux Kernel
   - Go to the kernel source directory (be the root)
      - *cd /opt/linux-2.6.12*
+  - Set the kernel configuration
