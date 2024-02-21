@@ -85,3 +85,4 @@
   - Go to the kernel source directory (be the root)
      - *cd /opt/linux-2.6.12*
   - Set the kernel configuration
+     - *make omap_osk_5912_deconfig*
