@@ -87,3 +87,4 @@
   - Set the kernel configuration
      - *make omap_osk_5912_deconfig*
   - Compile the kernel
+     - *make uImage*
