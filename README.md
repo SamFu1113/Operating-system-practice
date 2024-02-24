@@ -88,3 +88,4 @@
      - *make omap_osk_5912_deconfig*
   - Compile the kernel
      - *make uImage*
+  - Prepare the root filesystem
