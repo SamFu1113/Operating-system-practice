@@ -89,3 +89,4 @@
   - Compile the kernel
      - *make uImage*
   - Prepare the root filesystem
+     - *cp /home/csie/LAB1/rootfsosk.tar.bz2 /tmp/rootfsosk.tar.bz2*
