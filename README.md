@@ -92,3 +92,5 @@
      - *cp /home/csie/LAB1/rootfsosk.tar.bz2 /tmp/rootfsosk.tar.bz2*
      - *cd /tmp*
      - *tar jxvf rootfsosk.tar.bz2*
+
+### Check Point 1
