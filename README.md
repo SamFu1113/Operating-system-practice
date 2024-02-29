@@ -94,3 +94,4 @@
      - *tar jxvf rootfsosk.tar.bz2*
 
 ### Check Point 1
+  - Now, I should have the compiled kernel
