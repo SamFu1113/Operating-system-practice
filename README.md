@@ -96,3 +96,4 @@
 ### Check Point 1
   - Now, I should have the compiled kernel
   - The kernel imags is at: /opt/linux-2.6.12/arch/arm/boot/uImage
+  - The root filesystem for the evaluation board is at: /tmp/roorfs2.6
