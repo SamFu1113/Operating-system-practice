@@ -99,3 +99,4 @@
   - The root filesystem for the evaluation board is at: /tmp/roorfs2.6
 
 ### Set the Network Services (1/2)
+  - Disable the Firewall (it is not a good idea, only for this lab exercise)
