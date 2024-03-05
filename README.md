@@ -100,3 +100,4 @@
 
 ### Set the Network Services (1/2)
   - Disable the Firewall (it is not a good idea, only for this lab exercise)
+    - *systemctl stop firewalld*
