@@ -103,3 +103,4 @@
     - *systemctl stop firewalld*
     - *systemctl disable firewalld*
   - Set the TFTP Service
+    - ~~yum -y install tftp-server tftp~~
