@@ -105,3 +105,4 @@
   - Set the TFTP Service
     - ~~yum -y install tftp-server tftp-> tftp is used to download kernel image~~
   - ~~vi /etc/xinetd.d/tftp~~
+    - ~~Find disable = yes~~
