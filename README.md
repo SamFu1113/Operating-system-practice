@@ -107,3 +107,4 @@
   - ~~vi /etc/xinetd.d/tftp~~
     - ~~Find disable = yes~~
     - ~~Change it to disable = no~~
+  - ~~systemctl start tftp.socket~~
