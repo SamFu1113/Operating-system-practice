@@ -108,3 +108,4 @@
     - ~~Find disable = yes~~
     - ~~Change it to disable = no~~
   - ~~systemctl start tftp.socket~~
+  - ~~systemctl enable tftp.socket~~
