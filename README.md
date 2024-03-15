@@ -109,3 +109,4 @@
     - ~~Change it to disable = no~~
   - ~~systemctl start tftp.socket~~
   - ~~systemctl enable tftp.socket~~
+  - dnf install tftp-server tftp -y
