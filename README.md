@@ -110,3 +110,4 @@
   - ~~systemctl start tftp.socket~~
   - ~~systemctl enable tftp.socket~~
   - dnf install tftp-server tftp -y
+  - cp /usr/lib/systemd/system/tftp.service /etc/systemd/system/tftp-server.service
