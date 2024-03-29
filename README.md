@@ -116,3 +116,5 @@
   - *systemctl daemon-reload*
   - *systemctl enable --now tftp-server*
   - *chmod 777 /var/lib/tftpboot*
+
+### Set the Network Services (2/2)
