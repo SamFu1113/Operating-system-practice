@@ -118,3 +118,4 @@
   - *chmod 777 /var/lib/tftpboot*
 
 ### Set the Network Services (2/2)
+  - Set the NFS Service
