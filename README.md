@@ -119,3 +119,4 @@
 
 ### Set the Network Services (2/2)
   - Set the NFS Service
+    - *yum -y install nfs-utils*
