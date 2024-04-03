@@ -121,3 +121,4 @@
   - Set the NFS Service
     - *yum -y install nfs-utils*-> nfs for the root filesystem
     - *vi /etc/exports*
+      - Add the line /tmp/rootfs2.6 *(rw,fsid=1,no_root_squash)
