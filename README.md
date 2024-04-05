@@ -123,3 +123,4 @@
     - *vi /etc/exports*
       - Add the line /tmp/rootfs2.6 *(rw,fsid=1,no_root_squash)
     - *vi /etc/nfs.conf*
+      - Add the line udp=y
