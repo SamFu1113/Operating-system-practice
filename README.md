@@ -125,3 +125,4 @@
     - *vi /etc/nfs.conf*
       - Add the line udp=y
     - exportfs -rv
+    - systemctl start rpcbind.service
