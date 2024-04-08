@@ -126,3 +126,4 @@
       - Add the line udp=y
     - exportfs -rv
     - systemctl start rpcbind.service
+    - systemctl start nfs-mountd.service
