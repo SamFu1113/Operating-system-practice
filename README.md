@@ -127,3 +127,5 @@
     - exportfs -rv
     - systemctl start rpcbind.service
     - systemctl start nfs-mountd.service
+
+### Test the Network Services
