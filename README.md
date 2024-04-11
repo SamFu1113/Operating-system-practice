@@ -129,4 +129,5 @@
     - systemctl start nfs-mountd.service
 
 ### Test the Network Services
- - I need a friend for the following test
+  - I need a friend for the following test
+    - One be the server and the other be the client
