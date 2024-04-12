@@ -131,3 +131,4 @@
 ### Test the Network Services
   - I need a friend for the following test
     - One be the server and the other be the client
+    - Switch the roles & do it again
