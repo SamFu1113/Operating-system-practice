@@ -132,5 +132,6 @@
   - I need a friend for the following test
     - One be the server and the other be the client
     - Switch the roles & do it again
-  - Test TFTP  
+  - Test TFTP
+    - Server side:
     
