@@ -134,4 +134,5 @@
     - Switch the roles & do it again
   - Test TFTP
     - Server side:
+      - *vi /var/lib/tftpboot/testfile*
     
