@@ -135,4 +135,5 @@
   - Test TFTP
     - Server side:
       - *vi /var/lib/tftpboot/testfile*-> and then key something
+    - Client side:
     
