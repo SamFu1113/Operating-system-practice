@@ -138,3 +138,4 @@
     - Client side:
       - *tftp 192.168.68.xxx* (xxx is for the server IP)
       - *get testfile*
+      - *quit*
