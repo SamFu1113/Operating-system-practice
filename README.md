@@ -140,3 +140,4 @@
       - *get testfile*
       - *quit*
       - *cat testfile*
+  - Test NFS
