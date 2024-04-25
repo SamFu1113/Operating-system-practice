@@ -142,3 +142,4 @@
       - *cat testfile*
   - Test NFS
     - Server side:
+    - Client side:
