@@ -143,3 +143,4 @@
   - Test NFS
     - Server side:
     - Client side:
+      - mkdir /home/csie/nfstest
