@@ -145,3 +145,4 @@
     - Client side:
       - *mkdir /home/csie/nfstest*
       - *mount -t nfs 192.168.68.xxx:/tmp/rootfs2.6 /home/csie/nfstest*
+      - cd /home/csie/nfstest
