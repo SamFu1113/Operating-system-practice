@@ -148,3 +148,4 @@
       - *cd /home/csie/nfstest*
       - *ls*
       - *cd /*
+      - umount /home/csie/nfstest
