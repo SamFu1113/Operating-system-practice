@@ -149,3 +149,5 @@
       - *ls*
       - *cd /*
       - *umount /home/csie/nfstest*
+     
+### Check Point 2
