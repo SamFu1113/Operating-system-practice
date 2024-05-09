@@ -151,3 +151,4 @@
       - *umount /home/csie/nfstest*
      
 ### Check Point 2
+  - Now, I have enabled the TFTP & NFS services on my PC
