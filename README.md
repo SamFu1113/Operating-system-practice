@@ -152,4 +152,7 @@
      
 ### Check Point 2
   - Now, I have enabled the TFTP & NFS services on my PC
-  - TFTP & NFS are properly working now
+  - TFTP & NFS are properly working now 
+  
+### Set the Minicom (1/3)
+
