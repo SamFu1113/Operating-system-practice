@@ -155,4 +155,4 @@
   - TFTP & NFS are properly working now 
   
 ### Set the Minicom (1/3)
-
+  - Enter the setting menu
