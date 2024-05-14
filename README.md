@@ -156,4 +156,4 @@
   
 ### Set the Minicom (1/3)
   - Enter the setting menu
-    - minicom -s
+    - *minicom -s*
