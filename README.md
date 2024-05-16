@@ -157,4 +157,4 @@
 ### Set the Minicom (1/3)
   - Enter the setting menu
     - *minicom -s*
-  - Serial port setup
+  - Serial port setup-> press the letter to change it
