@@ -160,3 +160,4 @@
   - Serial port setup-> press the letter to change it
 
 ### Set the Minicom (2/3)
+  - Modem & dialing
