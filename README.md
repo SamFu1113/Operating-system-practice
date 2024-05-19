@@ -161,3 +161,5 @@
 
 ### Set the Minicom (2/3)
   - Modem & dialing
+
+### Set the Minicom (3/3)
