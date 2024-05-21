@@ -164,3 +164,4 @@
 
 ### Set the Minicom (3/3)
 - Save & leave the setting interface
+- Start & quit minicom
