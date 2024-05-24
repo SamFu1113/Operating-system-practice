@@ -166,3 +166,4 @@
 - Save & leave the setting interface
 - Start & quit minicom
   - Start *minicom*
+  - Quit
