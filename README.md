@@ -166,4 +166,4 @@
 - Save & leave the setting interface
 - Start & quit minicom
   - Start *minicom*
-  - Quit CTRL + A
+  - Quit CTRL + A -> Q
