@@ -163,7 +163,7 @@
   - Modem & dialing
 
 ### Set the Minicom (3/3)
-- Save & leave the setting interface
+  - Save & leave the setting interface
 - Start & quit minicom
   - Start *minicom*
   - Quit *CTRL + A -> Q*
