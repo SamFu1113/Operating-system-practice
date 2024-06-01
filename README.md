@@ -166,6 +166,6 @@
   - Save & leave the setting interface
   - Start & quit minicom
     - Start *minicom*
-  - Quit *CTRL + A -> Q*
+    - Quit *CTRL + A -> Q*
 
 ### Prepare for the Booting
