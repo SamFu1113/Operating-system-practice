@@ -169,3 +169,4 @@
     - Quit *CTRL + A -> Q*
 
 ### Prepare for the Booting
+  - Copy the boot image for TFTP booting
