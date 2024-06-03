@@ -170,3 +170,4 @@
 
 ### Prepare for the Booting
   - Copy the boot image for TFTP booting
+    - cp /opt/linux-2.6.12/arch/arm/boot/uImage
