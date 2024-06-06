@@ -171,3 +171,4 @@
 ### Prepare for the Booting
   - Copy the boot image for TFTP booting
     - *cp /opt/linux-2.6.12/arch/arm/boot/uImage /var/lib/tftpboot/uImage*
+  - Set the evaluation board as follows
