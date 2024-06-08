@@ -174,3 +174,4 @@
   - Set the evaluation board as follows
 
 # Boot the Evaluation Board
+  - Start the minicom
