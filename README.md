@@ -175,3 +175,4 @@
 
 # Boot the Evaluation Board
   - Start the minicom
+    - minicom
