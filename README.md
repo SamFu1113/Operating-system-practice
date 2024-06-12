@@ -176,3 +176,4 @@
 # Boot the Evaluation Board
   - Start the minicom
     - *minicom -s*
+  - Press the reset button on the board
