@@ -177,3 +177,4 @@
   - Start the minicom
     - *minicom -s*
   - Press the reset button on the board
+    - After the reset
