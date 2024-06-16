@@ -178,3 +178,4 @@
     - *minicom -s*
   - Press the reset button on the board
     - After the reset, immediately press any key on minicom terminal
+    - I will get the following prompt
