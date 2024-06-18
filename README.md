@@ -181,3 +181,4 @@
     - I will get the following prompt
 
 ### Download the New Kernel
+  - Set the boot configuration
