@@ -182,4 +182,4 @@
 
 ### Download the New Kernel
   - Set the boot configuration
-    - set ipaddr 192.168.68.yy (evaluation board IP)
+    - *set ipaddr 192.168.68.yy* (evaluation board IP)
