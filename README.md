@@ -184,3 +184,4 @@
   - Set the boot configuration
     - *set ipaddr 192.168.68.yy* (evaluation board IP)
     - *set serverip 192.168.68.zz* (PC IP)
+    - set netmask
