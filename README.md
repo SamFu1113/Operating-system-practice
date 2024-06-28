@@ -185,3 +185,4 @@
     - *set ipaddr 192.168.68.yy* (evaluation board IP)
     - *set serverip 192.168.68.zz* (PC IP)
     - *set netmask 255.255.255.0*
+    - set gatewayip
