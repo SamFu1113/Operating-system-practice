@@ -186,4 +186,4 @@
     - *set serverip 192.168.68.zz* (PC IP)
     - *set netmask 255.255.255.0*
     - *set gatewayip 192.168.68.254*
-    - set ethaddr
+    - set ethaddr 00-0e-99
