@@ -187,4 +187,4 @@
     - *set netmask 255.255.255.0*
     - *set gatewayip 192.168.68.254*
     - *set ethaddr 00-0e-99-xx-xx-xx*
-    - set bootargs
+    - set bootargs console=ttyS0
