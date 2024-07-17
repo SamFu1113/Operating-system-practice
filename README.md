@@ -188,4 +188,4 @@
     - *set gatewayip 192.168.68.254*
     - *set ethaddr 00-0e-99-xx-xx-xx*
     - *set bootargs console=ttyS0, 115200n8 rw ip=192.168.68.yy root=/dev/nfs nfsroot=192.168.68.zz:/tmp/rootfs2.6,v3*
-    - printenv->
+    - printenv->double check the setting
