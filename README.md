@@ -191,3 +191,4 @@
     - *printenv*->double check the setting
    
 ### Boot the New Kernel and Mount the NFS Root Filesystem
+  - Download the kernel
