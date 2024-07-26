@@ -191,4 +191,4 @@
     - *printenv*->double check the setting
    
 ### Boot the New Kernel and Mount the NFS Root Filesystem
-  - Download the kernel: tftpboot 0x10000000 uImage
+  - Download the kernel: *tftpboot 0x10000000 uImage*
