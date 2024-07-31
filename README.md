@@ -192,5 +192,5 @@
    
 ### Boot the New Kernel and Mount the NFS Root Filesystem
   - Download the kernel: *tftpboot 0x10000000 uImage*
-  - Boot the OS: bootm 0x10000000
+  - Boot the OS: *bootm 0x10000000*
 
