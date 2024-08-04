@@ -196,3 +196,5 @@
 
 ### Done!
 ### Or Bugs!?
+
+### Common Mistakes
