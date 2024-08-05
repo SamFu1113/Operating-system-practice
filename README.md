@@ -198,3 +198,4 @@
 ### Or Bugs!?
 
 ### Common Mistakes
+  - su & export
