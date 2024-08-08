@@ -198,4 +198,4 @@
 ### Or Bugs!?
 
 ### Common Mistakes
-  - *su* & *export* should be used
+  - *su* & *export* should be used whenever a new terminal is created
