@@ -199,4 +199,4 @@
 
 ### Common Mistakes
   - *su* & *export* should be used whenever a new terminal is created
-    - If I extract the 
+    - If I extract the root file system
