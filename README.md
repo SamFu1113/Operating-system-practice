@@ -201,4 +201,4 @@
   - *su* & *export* should be used whenever a new terminal is created
     - If I extract the root file system by the user csie, there will be an error when I boot the board to mount the NFS root file system
       - Reboot the computer & do everything again
-    - If I do not export the path of the tools
+    - If I do not export the path of the tools, I will get some error
