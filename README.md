@@ -204,4 +204,4 @@
     - If I do not export the path of the tools, I will get some error when I compile the kernel module
   - Please read the error message if I type something wrong
   - UART: it should be connected to the bottom port
-  - Ethernet
+  - Ethernet: 
