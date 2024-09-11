@@ -205,4 +205,4 @@
   - Please read the error message if I type something wrong
   - UART: it should be connected to the bottom port
   - Ethernet: do check the IP is correct
-  - Some evaluation boards were tested to be good:
+  - Some evaluation boards were tested to be good: ()
