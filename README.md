@@ -206,3 +206,5 @@
   - UART: it should be connected to the bottom port
   - Ethernet: do check the IP is correct
   - Some evaluation boards were tested to be good: (no USB cable), 7, 9, 10, 11, 15, 19, 20
+
+#
