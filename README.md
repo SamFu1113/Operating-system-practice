@@ -209,3 +209,4 @@
 
 ### Grading this Exercise
   - Attend and understand this exercise
+  - C
