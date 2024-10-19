@@ -209,4 +209,4 @@
 
 ### Grading this Exercise
   - Attend and understand this exercise
-  - Chec
+  - Check
