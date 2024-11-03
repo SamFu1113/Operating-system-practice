@@ -210,4 +210,4 @@
 ### Grading this Exercise
   - Attend and understand this exercise
   - Check point 1
-  - Check 
+  - Check p
