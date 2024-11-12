@@ -209,5 +209,5 @@
 
 ### Grading this Exercise
   - Attend and understand this exercise: 
-  - Check point 1
+  - Check point 1:
   - Check point 2
