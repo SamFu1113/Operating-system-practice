@@ -208,6 +208,6 @@
   - Some evaluation boards were tested to be good: (no USB cable), 7, 9, 10, 11, 15, 19, 20
 
 ### Grading this Exercise
-  - Attend and understand this exercise: 
+  - Attend and understand this exercise: 1
   - Check point 1: 
   - Check point 2:
