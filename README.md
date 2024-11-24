@@ -210,4 +210,4 @@
 ### Grading this Exercise
   - Attend and understand this exercise: 10%
   - Check point 1: 10%
-  - Check point 2: 10
+  - Check point 2: 10%
