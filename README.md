@@ -212,4 +212,4 @@
   - Check point 1: 10%
   - Check point 2: 10%
   - Final result: 20%
-  - Report before the exerc
+  - Report before the exerci
