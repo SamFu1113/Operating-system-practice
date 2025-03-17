@@ -213,7 +213,7 @@
   - Check point 2: 10%
   - Final result: 20%
   - Report before the exercise
-  - : 25%
+    : 25%
   - Report after the exercise: 25%
 
 ### Report Requirement
