@@ -216,4 +216,4 @@
   - Report after the exercise: 25%
 
 ### Report Requirements
-  - Report before the e
+  - Report before the ex
