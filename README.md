@@ -217,4 +217,4 @@
 
 ### Report Requirements
   - Report before the exercise:
-    - Only two pages
+    - Only two pages,
