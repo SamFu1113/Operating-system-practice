@@ -217,4 +217,4 @@
 
 ### Report Requirements
   - Report before the exercise:
-    - Only two pages, 12-pt font si
+    - Only two pages, 12-pt font siz
