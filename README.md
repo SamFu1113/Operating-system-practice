@@ -218,4 +218,4 @@
 ### Report Requirements
   - Report before the exercise:
     - Only two pages, 12-pt font size
-    - Deadline is 20:0
+    - Deadline is 20:00
