@@ -222,4 +222,4 @@
     - File name: OSP-Lab1-Study-StudentID
     - File type: PDF or Word
     - Upload to the e-learning system
-    - Remember to list all stu
+    - Remember to list all stud
