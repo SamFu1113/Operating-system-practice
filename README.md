@@ -223,4 +223,4 @@
     - File type: PDF or Word
     - Upload to the e-learning system
     - Remember to list all student IDs of your group
-  
+
